@@ -9,7 +9,7 @@
 [![arXiv](https://img.shields.io/badge/arXiv-XXX-orange)](XXX)
 ![Type-Survey](https://img.shields.io/badge/Type-Survey-blue)
 ![Topic-Medical%20Embodied%20AI](https://img.shields.io/badge/Topic-Medical%20Embodied%20AI-purple)
-[![](https://img.shields.io/badge/Project-%F0%9F%9A%80-pink)](https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List)
+[![](https://img.shields.io/badge/Project-%F0%9F%9A%80-pink)](https://github.com/VMVLab/Medical_Embodied_AI_Paper_List)
 
 </div>
 
@@ -488,3 +488,4 @@ Embodied AI in medicine. Corresponding to the core components of embodied AI, me
 <div align="center">
 <a href="#top">⬆ Back to top</a>
 </div>
+

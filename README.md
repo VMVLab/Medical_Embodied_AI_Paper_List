@@ -1,8 +1,23 @@
+<a id="top"></a>
 <div align=center>
 <img src="img\logo.png" width="180px">
 </div>
-<h2 align="center"><a src="paper\medical_embodied_ai.pdf"> Towards Next-Generation Healthcare: A Survey of Medical Embodied AI for Perception, Decision-Making, and Action </a></h2>
-<h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for the latest update.</h5>
+<h2 align="center"><a href="paper/medical_embodied_ai.pdf"> Towards Next-Generation Healthcare: A Survey of Medical Embodied AI for Perception, Decision-Making, and Action </a></h2>
+<div align="center">
+
+[![PDF](https://img.shields.io/badge/PDF-Download-red?logo=adobeacrobatreader)](paper/medical_embodied_ai.pdf)
+![Type-Survey](https://img.shields.io/badge/Type-Survey-blue)
+![Topic-Medical%20Embodied%20AI](https://img.shields.io/badge/Topic-Medical%20Embodied%20AI-purple)
+[![arXiv](https://img.shields.io/badge/arXiv-2407.06886-orange)](XXX)
+[![](https://img.shields.io/badge/Paper-%F0%9F%93%96-yellow)](https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List/blob/main/EmbodiedAI_Review.pdf)
+[![](https://img.shields.io/badge/Project-%F0%9F%9A%80-pink)](https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List)
+
+</div>
+
+> [!NOTE]
+> 🌟 If this project is helpful to you, please click on a Star to support us！
+
+---
 
 ## 🏠 About
 
@@ -10,13 +25,13 @@ Foundation models have demonstrated impressive performance in enhancing  healthc
 
 <div align="center">
 
-### [1. Introduction](#1-introduction) | [2. Embodied AI](#2-embodied-ai)
+### [📖 1. Introduction](#1-introduction) | [🤖 2. Embodied AI](#2-embodied-ai)
 
-### [3. Embodied AI in Medicine](#3-embodied-ai-in-medicine) | [4. Datasets and benchmark](#4-datasets-and-benchmark)
+### [🏥 3. Embodied AI in Medicine](#3-embodied-ai-in-medicine) | [📊 4. Datasets and benchmark](#4-datasets-and-benchmark)
 
 </div>
 
-## 1. Introduction
+## 📖 1. Introduction
 
 <div align=center>
 <img src="img\Fig1.jpg">
@@ -24,7 +39,7 @@ Foundation models have demonstrated impressive performance in enhancing  healthc
 
 **Fig. 1** Foundations of embodied AI. a, Publication volume, temporal trends over the past decade,  and representative keywords related to embodied intelligence. The statistics are obtained from Google  Scholar using “embodied AI” as the search query. b, The four developmental stages of embodied intel ligence, namely the Conceptual Germination Stage, Paradigm Shift Stage, Learning-Driven Stage,  and Large Model Empowered Stage. c, A comparison between disembodied intelligence and embodied  intelligence. Unlike its disembodied counterpart, embodied intelligence is distinguished by its inher ent ability to interact with the environment. d, Core components of embodied intelligence. At the  macroscopic level, it consists of agents and their environments; at the technical level, it encompasses  embodied perception, embodied decision-making, and embodied action.
 
-## 2. Embodied AI
+## 🤖 2. Embodied AI
 
 * [38][**Mind, 1950**] Computing machinery and intelligence [paper](XXX)
 * [39][**arXiv, 2025**] Neural brain: A neuroscience-inspired framework for embodied agents [paper](XXX)
@@ -176,7 +191,7 @@ Foundation models have demonstrated impressive performance in enhancing  healthc
 * [147][**arXiv, 2022**] Code as policies: Language model programs for embodied control [paper](XXX)
 * [148][**arXiv, 2025**] Embodied AI agents: Modeling the world [paper](XXX)
 
-## 3. Embodied AI in Medicine
+## 🏥 3. Embodied AI in Medicine
 
 <div align=center>
 <img src="img\Fig2.png">
@@ -344,7 +359,7 @@ Foundation models have demonstrated impressive performance in enhancing  healthc
 * [255][**Molecular Nutrition & Food Research, 2019**] Duck egg white–derived peptide VSEE (Val-Ser-Glu-Glu) regulates bone and lipid metabolisms by Wnt/β-catenin signaling pathway and intestinal microbiota [paper](XXX)
 * [256][**Frontiers in Human Neuroscience, 2024**] A retrospective, observational study of real-world clinical data from the cognitive function development therapy program [paper](XXX)
 
-## 4. Datasets and benchmark
+## 📊 4. Datasets and benchmark
 
 ### 4.1 Perception Datasets
 
@@ -456,4 +471,10 @@ Foundation models have demonstrated impressive performance in enhancing  healthc
 * [329][**Scientific Data, 2023**] A large-scale synthetic pathological dataset for deep learning-enabled segmentation of breast cancer [paper](XXX)
 * [330][**Intelligence-Based Medicine, 2020**] Synthea™ novel coronavirus (COVID-19) model and synthetic data set [paper](XXX)
 * [331][**Electronics, 2022**] The “coherent data set”: combining patient data and imaging in a comprehensive, synthetic health record [paper](XXX)
+
+---
+
+<div align="center">
+<a href="#top">⬆ Back to top</a>
+</div>
 

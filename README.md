@@ -1,15 +1,14 @@
 <a id="top"></a>
+
 <div align=center>
 <img src="img\logo.png" width="180px">
 </div>
 <h2 align="center"><a href="paper/medical_embodied_ai.pdf"> Towards Next-Generation Healthcare: A Survey of Medical Embodied AI for Perception, Decision-Making, and Action </a></h2>
 <div align="center">
 
-[![PDF](https://img.shields.io/badge/PDF-Download-red?logo=adobeacrobatreader)](paper/medical_embodied_ai.pdf)
+[![arXiv](https://img.shields.io/badge/arXiv-XXX-orange)](XXX)
 ![Type-Survey](https://img.shields.io/badge/Type-Survey-blue)
 ![Topic-Medical%20Embodied%20AI](https://img.shields.io/badge/Topic-Medical%20Embodied%20AI-purple)
-[![arXiv](https://img.shields.io/badge/arXiv-2407.06886-orange)](XXX)
-[![](https://img.shields.io/badge/Paper-%F0%9F%93%96-yellow)](https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List/blob/main/EmbodiedAI_Review.pdf)
 [![](https://img.shields.io/badge/Project-%F0%9F%9A%80-pink)](https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List)
 
 </div>
@@ -38,6 +37,10 @@ Foundation models have demonstrated impressive performance in enhancing  healthc
 </div>
 
 **Fig. 1** Foundations of embodied AI. a, Publication volume, temporal trends over the past decade,  and representative keywords related to embodied intelligence. The statistics are obtained from Google  Scholar using “embodied AI” as the search query. b, The four developmental stages of embodied intel ligence, namely the Conceptual Germination Stage, Paradigm Shift Stage, Learning-Driven Stage,  and Large Model Empowered Stage. c, A comparison between disembodied intelligence and embodied  intelligence. Unlike its disembodied counterpart, embodied intelligence is distinguished by its inher ent ability to interact with the environment. d, Core components of embodied intelligence. At the  macroscopic level, it consists of agents and their environments; at the technical level, it encompasses  embodied perception, embodied decision-making, and embodied action.
+
+<div align="center">
+<a href="#top">⬆ Back to top</a>
+</div>
 
 ## 🤖 2. Embodied AI
 
@@ -191,6 +194,10 @@ Foundation models have demonstrated impressive performance in enhancing  healthc
 * [147][**arXiv, 2022**] Code as policies: Language model programs for embodied control [paper](XXX)
 * [148][**arXiv, 2025**] Embodied AI agents: Modeling the world [paper](XXX)
 
+<div align="center">
+<a href="#top">⬆ Back to top</a>
+</div>
+
 ## 🏥 3. Embodied AI in Medicine
 
 <div align=center>
@@ -315,6 +322,8 @@ Foundation models have demonstrated impressive performance in enhancing  healthc
 * [225][**ML4H, 2023**] Med-Flamingo: a multimodal medical few-shot learner [paper](XXX)
 * [226][**arXiv, 2024**] RoboNurse-VLA: Robotic scrub nurse system based on vision-language-action model [paper](XXX)
 
+<p align="right"><a href="#top">⬆ Back to top</a></p>
+
 ### 3.4 Integrated Application Scenarios in Healthcare
 
 #### 3.4.1 Surgical Robot
@@ -358,6 +367,10 @@ Foundation models have demonstrated impressive performance in enhancing  healthc
 * [254][**Nurse Leader, 2016**] Mercy virtual nursing: An innovative care delivery model [paper](XXX)
 * [255][**Molecular Nutrition & Food Research, 2019**] Duck egg white–derived peptide VSEE (Val-Ser-Glu-Glu) regulates bone and lipid metabolisms by Wnt/β-catenin signaling pathway and intestinal microbiota [paper](XXX)
 * [256][**Frontiers in Human Neuroscience, 2024**] A retrospective, observational study of real-world clinical data from the cognitive function development therapy program [paper](XXX)
+
+<div align="center">
+<a href="#top">⬆ Back to top</a>
+</div>
 
 ## 📊 4. Datasets and benchmark
 

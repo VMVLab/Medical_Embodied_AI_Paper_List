@@ -210,161 +210,161 @@ Embodied AI in medicine. Corresponding to the core components of embodied AI, me
 
 #### 3.1.1 Medical Instrument and Organ Recognition
 
-* [149][**arXiv, 2020**] Deep learning in multi-organ segmentation [paper](XXX)
-* [150][**Artificial Intelligence Review, 2024**] Deep learning for surgical instrument recognition and segmentation in robotic-assisted surgeries: a systematic review [paper](XXX)
-* [151][**IEEE Transactions on Neural Networks and Learning Systems, 2022**] SwinPA-Net: Swin transformer-based multiscale feature pyramid aggregation network for medical image segmentation [paper](XXX)
-* [152][**Medical Image Analysis, 2021**] ST-MTL: Spatio-temporal multitask learning model to predict scanpath while tracking instruments in robotic surgery [paper](XXX)
-* [153][**IEEE Robotics and Automation Letters, 2019**] Deep learning based robotic tool detection and articulation estimation with spatio-temporal layers [paper](XXX)
-* [154][**arXiv, 2025**] SurgVLM: A large vision-language model and systematic evaluation benchmark for surgical intelligence [paper](XXX)
+* [149][**arXiv, 2020**] Deep learning in multi-organ segmentation [paper](https://arxiv.org/abs/2001.10619)
+* [150][**Artificial Intelligence Review, 2024**] Deep learning for surgical instrument recognition and segmentation in robotic-assisted surgeries: a systematic review [paper](https://link.springer.com/article/10.1007/s10462-024-10979-w)
+* [151][**IEEE Transactions on Neural Networks and Learning Systems, 2022**] SwinPA-Net: Swin transformer-based multiscale feature pyramid aggregation network for medical image segmentation [paper](https://ieeexplore.ieee.org/document/9895210)
+* [152][**Medical Image Analysis, 2021**] ST-MTL: Spatio-temporal multitask learning model to predict scanpath while tracking instruments in robotic surgery [paper](https://doi.org/10.1016/j.media.2020.101837)
+* [153][**IEEE Robotics and Automation Letters, 2019**] Deep learning based robotic tool detection and articulation estimation with spatio-temporal layers [paper](https://ieeexplore.ieee.org/document/8715379)
+* [154][**arXiv, 2025**] SurgVLM: A large vision-language model and systematic evaluation benchmark for surgical intelligence [paper](https://arxiv.org/abs/2506.02555)
 
 #### 3.1.2 Surgical and Clinical Environment Perception and Modeling
 
-* [155][**arXiv, 2020**] A robotic 3D perception system for operating room environment awareness [paper](XXX)
-* [156][**Neurosurgical Focus, 2024**] Creation of a microsurgical neuroanatomy laboratory and virtual operating room: a preliminary study [paper](XXX)
-* [157][**IJCARS, 2025**] NeRF-OR: neural radiance fields for operating room scene reconstruction from sparse-view RGB-D videos [paper](XXX)
-* [158][**MICCAI, 2024**] Deform3DGS: Flexible deformation for fast surgical scene reconstruction with gaussian splatting [paper](XXX)
-* [159][**MICCAI, 2022**] 4D-OR: Semantic scene graphs for or domain modeling [paper](XXX)
-* [160][**MICCAI, 2023**] Labrad-OR: Lightweight memory scene graphs for accurate bimodal reasoning in dynamic operating rooms [paper](XXX)
-* [161][**arXiv, 2025**] Spatial-ORMLLM: Improve spatial relation understanding in the operating room with multimodal large language model [paper](XXX)
+* [155][**arXiv, 2020**] A robotic 3D perception system for operating room environment awareness [paper](https://arxiv.org/abs/2003.09487)
+* [156][**Neurosurgical Focus, 2024**] Creation of a microsurgical neuroanatomy laboratory and virtual operating room: a preliminary study [paper](https://thejns.org/focus/view/journals/neurosurg-focus/56/1/article-pE6.xml)
+* [157][**IJCARS, 2025**] NeRF-OR: neural radiance fields for operating room scene reconstruction from sparse-view RGB-D videos [paper](https://link.springer.com/article/10.1007/s11548-024-03261-5)
+* [158][**MICCAI, 2024**] Deform3DGS: Flexible deformation for fast surgical scene reconstruction with Gaussian Splatting [paper](https://doi.org/10.1007/978-3-031-72089-5_13)
+* [159][**MICCAI, 2022**] 4D-OR: Semantic scene graphs for OR domain modeling [paper](https://link.springer.com/chapter/10.1007/978-3-031-16449-1_45)
+* [160][**MICCAI, 2023**] LABRAD-OR: Lightweight memory scene graphs for accurate bimodal reasoning in dynamic operating rooms [paper](https://link.springer.com/chapter/10.1007/978-3-031-43996-4_29)
+* [161][**arXiv, 2025**] Spatial-ORMLLM: Improve spatial relation understanding in the operating room with multimodal large language model [paper](https://arxiv.org/abs/2508.08199)
 
 #### 3.1.3 Medical Operation Behavior Detection
 
-* [162][**IEEE JBHI, 2023**] Deep learning in surgical workflow analysis: a review of phase and step recognition [paper](XXX)
-* [163][**IEEE FG, 2024**] MGRFormer: A multimodal transformer approach for surgical gesture recognition [paper](XXX)
-* [164][**ITNEC, 2024**] Surgical gesture recognition in open surgery based on 3DCNN and SlowFast [paper](XXX)
-* [165][**CGI, 2024**] TransSG: A spatial-temporal transformer for surgical gesture recognition [paper](XXX)
-* [166][**Annals of the New York Academy of Sciences, 2025**] STANet: A surgical gesture recognition method based on spatiotemporal fusion [paper](XXX)
-* [167][**IEEE Access, 2024**] Audio-and video-based human activity recognition systems in healthcare [paper](XXX)
-* [168][**IEEE Transactions on Medical Imaging, 2022**] Gesture recognition in robotic surgery with multimodal attention [paper](XXX)
+* [162][**IEEE JBHI, 2023**] Deep learning in surgical workflow analysis: a review of phase and step recognition [paper](https://doi.org/10.1109/JBHI.2023.3311628)
+* [163][**IEEE FG, 2024**] MGRFormer: A multimodal transformer approach for surgical gesture recognition [paper](https://hal.science/hal-04603132)
+* [164][**ITNEC, 2024**] Surgical gesture recognition in open surgery based on 3DCNN and SlowFast [paper](https://ieeexplore.ieee.org/document/10733142/)
+* [165][**CGI, 2024**] TransSG: A spatial-temporal transformer for surgical gesture recognition [paper](https://doi.org/10.1007/978-3-031-82024-3_12)
+* [166][**Annals of the New York Academy of Sciences, 2025**] STANet: A surgical gesture recognition method based on spatiotemporal fusion [paper](https://doi.org/10.1111/nyas.70053)
+* [167][**IEEE Access, 2024**] Audio-and video-based human activity recognition systems in healthcare [paper](https://doi.org/10.1109/ACCESS.2024.3353138)
+* [168][**IEEE Transactions on Medical Imaging, 2022**] Gesture recognition in robotic surgery with multimodal attention [paper](https://doi.org/10.1109/TMI.2022.3147640)
 
 #### 3.1.4 Emotional Interaction Understanding
 
-* [169][**IEEE Transactions on Affective Computing, 2020**] Deep facial expression recognition: A survey [paper](XXX)
-* [170][**IEEE Transactions on Affective Computing, 2022**] Deep learning for micro-expression recognition: A survey [paper](XXX)
-* [171][**Pattern Recognition, 2025**] Multimodal latent emotion recognition from micro-expression and physiological signal [paper](XXX)
-* [172][**Information Fusion, 2025**] Towards facial micro-expression detection and classification using modified multimodal ensemble learning approach [paper](XXX)
-* [173][**IEEE Transactions on Circuits and Systems for Video Technology, 2024**] Dep-former: Multimodal depression recognition based on facial expressions and audio features via emotional changes [paper](XXX)
-* [174][**Expert Systems with Applications, 2024**] MSER: Multimodal speech emotion recognition using cross-attention with deep fusion [paper](XXX)
+* [169][**IEEE Transactions on Affective Computing, 2020**] Deep facial expression recognition: A survey [paper](https://doi.org/10.1109/TAFFC.2020.2981446)
+* [170][**IEEE Transactions on Affective Computing, 2022**] Deep learning for micro-expression recognition: A survey [paper](https://doi.org/10.1109/TAFFC.2022.3205170)
+* [171][**Pattern Recognition, 2025**] Multimodal latent emotion recognition from micro-expression and physiological signal [paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320325006235)
+* [172][**Information Fusion, 2025**] Towards facial micro-expression detection and classification using modified multimodal ensemble learning approach [paper](https://www.sciencedirect.com/science/article/abs/pii/S156625352400513X)
+* [173][**IEEE Transactions on Circuits and Systems for Video Technology, 2024**] Dep-former: Multimodal depression recognition based on facial expressions and audio features via emotional changes [paper](https://ieeexplore.ieee.org/document/10742391/)
+* [174][**Expert Systems with Applications, 2024**] MSER: Multimodal speech emotion recognition using cross-attention with deep fusion [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417423034486)
 * [175][**IEEE JBHI, 2025**] Multimodal fusion of behavioral and physiological signals for enhanced emotion recognition via feature decoupling and knowledge transfer [paper](XXX)
-* [176][**IEEE Transactions on Instrumentation and Measurement, 2024**] Deep learning-based automated emotion recognition using multimodal physiological signals and time-frequency methods [paper](XXX)
-* [177][**MICCAI, 2025**] MedVLM-RL: Incentivizing medical reasoning capability of vision-language models (VLMs) via reinforcement learning [paper](XXX)
-* [178][**arXiv, 2023**] DialogueLLM: Context and emotion knowledge-tuned large language models for emotion recognition in conversations [paper](XXX)
+* [176][**IEEE Transactions on Instrumentation and Measurement, 2024**] Deep learning-based automated emotion recognition using multimodal physiological signals and time-frequency methods [paper](https://ieeexplore.ieee.org/document/10579770/)
+* [177][**MICCAI, 2025**] MedVLM-R1: Incentivizing medical reasoning capability of vision-language models (VLMs) via reinforcement learning [paper](https://doi.org/10.1007/978-3-032-04981-0_32)
+* [178][**arXiv, 2023**] DialogueLLM: Context and emotion knowledge-tuned large language models for emotion recognition in conversations [paper](https://arxiv.org/abs/2310.11374)
 
 ### 3.2 Medical Embodied Decision-Making
 
-* [179][**EBioMedicine, 2019**] Artificial intelligence to support clinical decision-making processes [paper](XXX)
-* [180][**JAMA Surgery, 2020**] Artificial intelligence and surgical decision-making [paper](XXX)
+* [179][**EBioMedicine, 2019**] Artificial intelligence to support clinical decision-making processes [paper](https://doi.org/10.1016/j.ebiom.2019.07.019)
+* [180][**JAMA Surgery, 2020**] Artificial intelligence and surgical decision-making [paper](https://doi.org/10.1001/jamasurg.2019.4917)
 
 #### 3.2.1 Medical Workflow Modeling and Task Planning
 
-* [181][**BMC Oral Health, 2025**] Artificial intelligence and augmented reality for guided implant surgery planning: a proof of concept [paper](XXX)
-* [182][**Health Systems, 2021**] Clinical pathway modelling: a literature review [paper](XXX)
-* [183][**MICCAI, 2021**] Trans-SVNet: Accurate phase recognition from surgical videos via hybrid embedding aggregation transformer [paper](XXX)
-* [184][**MICCAI, 2020**] TeCNO: Surgical phase recognition with multi-stage temporal convolutional networks [paper](XXX)
-* [185][**IJCARS, 2022**] PATG: position-aware temporal graph networks for surgical phase recognition on laparoscopic videos [paper](XXX)
-* [186][**IEEE-EMBS BHI, 2022**] Towards graph representation learning based surgical workflow anticipation [paper](XXX)
-* [187][**NeurIPS, 2023**] LLaVA-Med: Training a large language-and-vision assistant for biomedicine in one day [paper](XXX)
+* [181][**Journal of Dentistry, 2023**] Artificial intelligence and augmented reality for guided implant surgery planning: a proof of concept [paper](https://doi.org/10.1016/j.jdent.2023.104485)
+* [182][**Health Systems, 2021**] Clinical pathway modelling: a literature review [paper](https://doi.org/10.1080/20476965.2019.1652547)
+* [183][**MICCAI, 2021**] Trans-SVNet: Accurate phase recognition from surgical videos via hybrid embedding aggregation transformer [paper](https://doi.org/10.1007/978-3-030-87202-1_57)
+* [184][**MICCAI, 2020**] TeCNO: Surgical phase recognition with multi-stage temporal convolutional networks [paper](https://doi.org/10.1007/978-3-030-59716-0_33)
+* [185][**IJCARS, 2022**] PATG: position-aware temporal graph networks for surgical phase recognition on laparoscopic videos [paper](https://doi.org/10.1007/s11548-022-02600-8)
+* [186][**IEEE-EMBS BHI, 2022**] Towards graph representation learning based surgical workflow anticipation [paper](https://doi.org/10.1109/BHI56158.2022.9926801)
+* [187][**NeurIPS, 2023**] LLaVA-Med: Training a large language-and-vision assistant for biomedicine in one day [paper](https://doi.org/10.48550/arXiv.2306.00890)
 
 #### 3.2.2 Medical Navigation Systems
 
-* [188][**Langenbeck's Archives of Surgery, 2013**] Navigation in surgery [paper](XXX)
-* [189][**International Journal of Nanomedicine, 2025**] Localized drug delivery in different gastrointestinal cancers: navigating challenges and advancing nanotechnological solutions [paper](XXX)
-* [190][**ICSR, 2024**] Utilizing a social robot as a greeter at a children's hospital [paper](XXX)
-* [191][**IPIN, 2015**] Navigating in large hospitals [paper](XXX)
-* [192][**Neurosurgery, 1999**] BrainLAB VectorVision neuronavigation system: technology and clinical experiences in 131 cases [paper](XXX)
-* [193][**Annals of Biomedical Engineering, 2021**] A wearable augmented reality navigation system for surgical telementoring based on Microsoft HoloLens [paper](XXX)
-* [194][**IEEE Transactions on Automation Science and Engineering, 2025**] RL-USRegi: Autonomous ultrasound registration for radiation-free spinal surgical navigation using reinforcement learning [paper](XXX)
-* [195][**IJCARS, 2024**] Autonomous navigation of catheters and guidewires in mechanical thrombectomy using inverse reinforcement learning [paper](XXX)
-* [196][**AAAI, 2024**] NavGPT: Explicit reasoning in vision-and-language navigation with large language models [paper](XXX)
-* [197][**ECCV, 2024**] NavGPT-2: Unleashing navigational reasoning capability for large vision-language models [paper](XXX)
+* [188][**Langenbeck's Archives of Surgery, 2013**] Navigation in surgery [paper](https://doi.org/10.1007/s00423-013-1059-4)
+* [189][**International Journal of Nanomedicine, 2025**] Localized drug delivery in different gastrointestinal cancers: navigating challenges and advancing nanotechnological solutions [paper](https://doi.org/10.2147/IJN.S502833)
+* [190][**ICSR, 2024**] Utilizing a social robot as a greeter at a children's hospital [paper](https://doi.org/10.1007/978-981-96-3525-2_11)
+* [191][**IPIN, 2015**] Navigating in large hospitals [paper](https://doi.org/10.1109/IPIN.2015.7346758)
+* [192][**Neurosurgery, 1999**] BrainLab VectorVision neuronavigation system: technology and clinical experiences in 131 cases [paper](https://doi.org/10.1097/00006123-199901000-00056)
+* [193][**Annals of Biomedical Engineering, 2021**] A wearable augmented reality navigation system for surgical telementoring based on Microsoft HoloLens [paper](https://doi.org/10.1007/s10439-020-02538-5)
+* [194][**IEEE Transactions on Automation Science and Engineering, 2025**] RL-USRegi: Autonomous ultrasound registration for radiation-free spinal surgical navigation using reinforcement learning [paper](https://ieeexplore.ieee.org/document/10897959/)
+* [195][**IJCARS, 2024**] Autonomous navigation of catheters and guidewires in mechanical thrombectomy using inverse reinforcement learning [paper](https://doi.org/10.1007/s11548-024-03208-w)
+* [196][**AAAI, 2024**] NavGPT: Explicit reasoning in vision-and-language navigation with large language models [paper](https://doi.org/10.1609/aaai.v38i7.28597)
+* [197][**ECCV, 2024**] NavGPT-2: Unleashing navigational reasoning capability for large vision-language models [paper](https://doi.org/10.1007/978-3-031-72667-5_15)
 
 #### 3.2.3 Clinical Question-answering and Decision Support
 
-* [198][**Nature Medicine, 2025**] Toward expert-level medical question answering with large language models [paper](XXX)
-* [199][**Artificial Intelligence in Medicine, 2023**] Medical visual question answering: A survey [paper](XXX)
-* [200][**ACM Computing Surveys, 2022**] Biomedical question answering: a survey of approaches and challenges [paper](XXX)
-* [201][**Nature Medicine, 2025**] Clinical implementation of an AI-based prediction model for decision support for patients undergoing colorectal cancer surgery [paper](XXX)
-* [202][**BMC Oral Health, 2025**] Artificial intelligence-based chatbot assistance in clinical decision-making for medically complex patients in oral surgery [paper](XXX)
-* [203][**Journal of Biology and Health Science, 2025**] Multimodal decision support system for improved diagnosis and healthcare decision making [paper](XXX)
-* [204][**Computerized Medical Imaging and Graphics, 2025**] MedBlip: A multimodal method of medical question-answering based on fine-tuning large language model [paper](XXX)
+* [198][**Nature Medicine, 2025**] Toward expert-level medical question answering with large language models [paper](https://doi.org/10.1038/s41591-024-03423-7)
+* [199][**Artificial Intelligence in Medicine, 2023**] Medical visual question answering: A survey [paper](https://doi.org/10.1016/j.artmed.2023.102611)
+* [200][**ACM Computing Surveys, 2022**] Biomedical question answering: a survey of approaches and challenges [paper](https://doi.org/10.1145/3490238)
+* [201][**Nature Medicine, 2025**] Clinical implementation of an AI-based prediction model for decision support for patients undergoing colorectal cancer surgery [paper](https://doi.org/10.1038/s41591-025-03942-x)
+* [202][**BMC Oral Health, 2025**] Artificial intelligence-based chatbot assistance in clinical decision-making for medically complex patients in oral surgery: a comparative study [paper](https://doi.org/10.1186/s12903-025-05732-w)
+* [203][**Research Square, 2025**] Multimodal decision support system for improved diagnosis and healthcare decision making [paper](https://www.researchsquare.com/article/rs-6430452/v1)
+* [204][**Computerized Medical Imaging and Graphics, 2025**] MedBLIP: A multimodal method of medical question-answering based on fine-tuning large language model [paper](https://doi.org/10.1016/j.compmedimag.2025.102581)
 
 ### 3.3 Medical Embodied Action
 
-* [205][**Science Robotics, 2025**] Will your next surgeon be a robot? Autonomy and AI in robotic surgery [paper](XXX)
-* [206][**Annual Review of Control, Robotics, and Autonomous Systems, 2021**] Autonomy in surgical robotics [paper](XXX)
+* [205][**Science Robotics, 2025**] Will your next surgeon be a robot? Autonomy and AI in robotic surgery [paper](https://doi.org/10.1126/scirobotics.adt0187)
+* [206][**Annual Review of Control, Robotics, and Autonomous Systems, 2021**] Autonomy in surgical robotics [paper](https://doi.org/10.1146/annurev-control-062420-090543)
 
 #### 3.3.1 Medical Imitation-based Action
 
-* [207][**IEEE Transactions on Biomedical Engineering, 2025**] Imitation learning for path planning in cardiac percutaneous interventions [paper](XXX)
-* [208][**arXiv, 2024**] Surgical robot transformer (SRT): Imitation learning for surgical tasks [paper](XXX)
-* [209][**ICRA, 2021**] Intermittent visual servoing: Efficiently learning policies robust to instrument changes for high-precision surgical manipulation [paper](XXX)
-* [210][**arXiv, 2025**] SuFIA-BC: Generating high quality demonstration data for visuomotor policy learning in surgical subtasks [paper](XXX)
-* [211][**IEEE Transactions on Biomedical Engineering, 2021**] Inverse reinforcement learning intra-operative path planning for steerable needle [paper](XXX)
-* [212][**ICRA, 2020**] Collaborative robot-assisted endovascular catheterization with generative adversarial imitation learning [paper](XXX)
-* [213][**IROS, 2024**] Towards a surgeon-in-the-loop ophthalmic robotic apprentice using reinforcement and imitation learning [paper](XXX)
-* [214][**ICRA, 2022**] 3d perception based imitation learning under limited demonstration for laparoscope control in robotic surgery [paper](XXX)
+* [207][**IEEE Transactions on Biomedical Engineering, 2025**] Imitation learning for path planning in cardiac percutaneous interventions [paper](https://doi.org/10.1109/TBME.2025.3542224)
+* [208][**arXiv, 2024**] Surgical Robot Transformer (SRT): Imitation Learning for Surgical Tasks [paper](https://arxiv.org/abs/2407.12998)
+* [209][**ICRA, 2021**] Intermittent visual servoing: Efficiently learning policies robust to instrument changes for high-precision surgical manipulation [paper](https://doi.org/10.1109/ICRA48506.2021.9561070)
+* [210][**arXiv, 2025**] SuFIA-BC: Generating High Quality Demonstration Data for Visuomotor Policy Learning in Surgical Subtasks [paper](https://arxiv.org/abs/2504.14857)
+* [211][**IEEE Transactions on Biomedical Engineering, 2021**] Inverse reinforcement learning intra-operative path planning for steerable needle [paper](https://doi.org/10.1109/TBME.2021.3133075)
+* [212][**ICRA, 2020**] Collaborative robot-assisted endovascular catheterization with generative adversarial imitation learning [paper](https://doi.org/10.1109/ICRA40945.2020.9196912)
+* [213][**IROS, 2024**] Toward a surgeon-in-the-loop ophthalmic robotic apprentice using reinforcement and imitation learning [paper](https://arxiv.org/abs/2311.17693)
+* [214][**ICRA, 2022**] 3D perception based imitation learning under limited demonstration for laparoscope control in robotic surgery [paper](https://doi.org/10.1109/ICRA46639.2022.9812010)
 
 #### 3.3.2 Medical Reinforcement-based Action
 
-* [215][**ACM Computing Surveys, 2021**] Reinforcement learning in healthcare: A survey [paper](XXX)
-* [216][**RO-MAN, 2020**] Collaborative suturing: A reinforcement learning approach to automate hand-off task in suturing for surgical robots [paper](XXX)
-* [217][**Journal of Machine Learning Research, 2023**] LapGym-an open source framework for reinforcement learning in robot-assisted laparoscopic surgery [paper](XXX)
-* [218][**ICMA, 2022**] Evaluation of an autonomous navigation method for vascular interventional surgery in virtual environment [paper](XXX)
-* [219][**arXiv, 2024**] Surgical task automation using actor-critic frameworks and self-supervised imitation learning [paper](XXX)
-* [220][**IEEE Transactions on Industrial Electronics, 2023**] CASOG: Conservative actor–critic with smooth gradient for skill learning in robot-assisted intervention [paper](XXX)
+* [215][**ACM Computing Surveys, 2021**] Reinforcement learning in healthcare: A survey [paper](https://doi.org/10.1145/3477600)
+* [216][**RO-MAN, 2020**] Collaborative suturing: A reinforcement learning approach to automate hand-off task in suturing for surgical robots [paper](https://doi.org/10.1109/RO-MAN47096.2020.9223543)
+* [217][**Journal of Machine Learning Research, 2023**] LapGym - An Open Source Framework for Reinforcement Learning in Robot-Assisted Laparoscopic Surgery [paper](https://jmlr.org/papers/v24/23-0207.html)
+* [218][**ICMA, 2022**] Evaluation of an autonomous navigation method for vascular interventional surgery in a virtual environment [paper](https://doi.org/10.1109/ICMA54519.2022.9856107)
+* [219][**arXiv, 2024**] Surgical Task Automation Using Actor-Critic Frameworks and Self-Supervised Imitation Learning [paper](https://arxiv.org/abs/2409.02724)
+* [220][**IEEE Transactions on Industrial Electronics, 2023**] CASOG: Conservative actor–critic with smooth gradient for skill learning in robot-assisted intervention [paper](https://ieeexplore.ieee.org/document/10254299)
 
 #### 3.3.3 Medical Large Model-Driven Action
 
-* [221][**Nature Reviews Electrical Engineering, 2025**] Innovating robot-assisted surgery through large vision models [paper](XXX)
-* [222][**arXiv, 2024**] GP-VLS: A general-purpose vision language model for surgery [paper](XXX)
-* [223][**Artificial Intelligence Review, 2024**] Large language models in healthcare: from a systematic review on medical examinations to a comparative analysis on fundamentals of robotic surgery online test [paper](XXX)
-* [224][**MICCAI, 2023**] SurgicalGPT: end-to-end language-vision GPT for visual question answering in surgery [paper](XXX)
-* [225][**ML4H, 2023**] Med-Flamingo: a multimodal medical few-shot learner [paper](XXX)
-* [226][**arXiv, 2024**] RoboNurse-VLA: Robotic scrub nurse system based on vision-language-action model [paper](XXX)
+* [221][**Nature Reviews Electrical Engineering, 2025**] Innovating robot-assisted surgery through large vision models [paper](https://doi.org/10.1038/s44287-025-00166-6)
+* [222][**arXiv, 2024**] GP-VLS: A general-purpose vision language model for surgery [paper](https://arxiv.org/abs/2407.19305)
+* [223][**Artificial Intelligence Review, 2024**] Large language models in healthcare: from a systematic review on medical examinations to a comparative analysis on fundamentals of robotic surgery online test [paper](https://doi.org/10.1007/s10462-024-10849-5)
+* [224][**MICCAI, 2023**] SurgicalGPT: end-to-end language-vision GPT for visual question answering in surgery [paper](https://doi.org/10.1007/978-3-031-43996-4_27)
+* [225][**ML4H, 2023**] Med-Flamingo: a multimodal medical few-shot learner [paper](https://proceedings.mlr.press/v225/moor23a.html)
+* [226][**arXiv, 2024**] RoboNurse-VLA: Robotic scrub nurse system based on vision-language-action model [paper](https://arxiv.org/abs/2409.19590)
 
 ### 3.4 Integrated Application Scenarios in Healthcare
 
 #### 3.4.1 Surgical Robot
 
-* [227][**IEEE Robotics & Automation Magazine, 2021**] Accelerating surgical robotics research: A review of 10 years with the da Vinci research kit [paper](XXX)
-* [228][**IJMRCAS, 2013**] Technical review of the da Vinci surgical telemanipulator [paper](XXX)
-* [229][**Intuit. Surg., 2013**] da Vinci surgical system [paper](XXX)
-* [230][**IJMRCAS, 2015**] A pneumatic laparoscope holder controlled by head movement [paper](XXX)
-* [231][**Acta Neurochirurgica, 2016**] Minimally invasive transforaminal lumbar interbody fusion with the ROSA™ spine robot and intraoperative flat-panel CT guidance [paper](XXX)
-* [232][**Nature Biomedical Engineering, 2018**] First-in-human study of the safety and viability of intraocular robotic surgery [paper](XXX)
-* [233][**Clinical Orthopaedics and Related Research, 1998**] Primary and revision total hip replacement using the ROBODOC (R) system [paper](XXX)
-* [234][**Surgical Innovation, 2024**] The use of the Symani Surgical System® in emergency hand trauma care [paper](XXX)
-* [235][**Technology in Cancer Research & Treatment, 2010**] The CyberKnife® robotic radiosurgery system in 2010 [paper](XXX)
-* [236][**ICRA, 2019**] Robotic bronchoscopy drive mode of the Auris Monarch platform [paper](XXX)
-* [237][**European Archives of Oto-Rhino-Laryngology, 2015**] Transoral robotic surgery (TORS) with the Medrobotics Flex™ system: first surgical application on humans [paper](XXX)
-* [238][**Journal of Neurosurgery, 2019**] Neuroendovascular-specific engineering modifications to the CorPath GRX robotic system [paper](XXX)
+* [227][**IEEE Robotics & Automation Magazine, 2021**] Accelerating surgical robotics research: A review of 10 years with the da Vinci research kit [paper](https://doi.org/10.1109/MRA.2021.3101646)
+* [228][**IJMRCAS, 2013**] Technical review of the da Vinci surgical telemanipulator [paper](https://doi.org/10.1002/rcs.1468)
+* [229][**Intuitive Surgical, 2013**] da Vinci surgical system [paper](https://www.intuitive.com/en-us/products-and-services/da-vinci)
+* [230][**IJMRCAS, 2015**] A pneumatic laparoscope holder controlled by head movement [paper](https://doi.org/10.1002/rcs.1606)
+* [231][**Acta Neurochirurgica, 2016**] Minimally invasive transforaminal lumbar interbody fusion with the ROSA™ spine robot and intraoperative flat-panel CT guidance [paper](https://doi.org/10.1007/s00701-016-2799-z)
+* [232][**Nature Biomedical Engineering, 2018**] First-in-human study of the safety and viability of intraocular robotic surgery [paper](https://doi.org/10.1038/s41551-018-0248-4)
+* [233][**Clinical Orthopaedics and Related Research, 1998**] Primary and revision total hip replacement using the ROBODOC (R) system [paper](https://doi.org/10.1097/00003086-199809000-00011)
+* [234][**Surgical Innovation, 2024**] The use of the Symani Surgical System® in emergency hand trauma care [paper](https://doi.org/10.1177/15533506241262568)
+* [235][**Technology in Cancer Research & Treatment, 2010**] The CyberKnife® robotic radiosurgery system in 2010 [paper](https://doi.org/10.1177/153303461000900502)
+* [236][**ICRA, 2019**] Robotic bronchoscopy drive mode of the Auris Monarch platform [paper](https://doi.org/10.1109/ICRA.2019.8793704)
+* [237][**European Archives of Oto-Rhino-Laryngology, 2015**] Transoral robotic surgery (TORS) with the Medrobotics Flex™ system: first surgical application on humans [paper](https://doi.org/10.1007/s00405-015-3532-x)
+* [238][**Journal of Neurosurgery, 2019**] Neuroendovascular-specific engineering modifications to the CorPath GRX robotic system [paper](https://doi.org/10.3171/2019.9.JNS192113)
 
 #### 3.4.2 Intelligent Caregiving and Companion Robot
 
-* [239][**BMC Geriatrics, 2019**] The benefits of and barriers to using a social robot PARO in care settings: a scoping review [paper](XXX)
-* [240][**European Journal of Pediatrics, 2022**] The pilot study of group robot intervention on pediatric inpatients and their caregivers, using 'new aibo' [paper](XXX)
-* [241][**Envisioning the Future of Health Informatics and Digital Health, 2025**] The Pepper robot in healthcare: A scoping review [paper](XXX)
-* [242][**Journal of Aging Research & Lifestyle, 2024**] ElliQ, an AI-driven social robot to alleviate loneliness: progress and lessons learned [paper](XXX)
-* [243][**Journal of Engineering in Medicine, 2018**] Arash: A social robot buddy to support children with cancer in a hospital environment [paper](XXX)
-* [244][**IJERPH, 2020**] Robotics utilization for healthcare digitization in global COVID-19 management [paper](XXX)
-* [245][**RO-MAN, 2012**] Technical improvements of the Giraff telepresence robot based on users' evaluation [paper](XXX)
-* [246][**SIGGRAPH Emerging Technologies, 2011**] Telenoid: Tele-presence android for communication [paper](XXX)
+* [239][**BMC Geriatrics, 2019**] The benefits of and barriers to using a social robot PARO in care settings: a scoping review [paper](https://doi.org/10.1186/s12877-019-1244-6)
+* [240][**European Journal of Pediatrics, 2022**] The pilot study of group robot intervention on pediatric inpatients and their caregivers, using 'new aibo' [paper](https://doi.org/10.1007/s00431-021-04285-8)
+* [241][**Envisioning the Future of Health Informatics and Digital Health, 2025**] The Pepper robot in healthcare: A scoping review [paper](https://ebooks.iospress.nl/DOI/10.3233/SHTI250057)
+* [242][**Journal of Aging Research & Lifestyle, 2024**] ElliQ, an AI-driven social robot to alleviate loneliness: progress and lessons learned [paper](https://doi.org/10.14283/jarlife.2024.2)
+* [243][**Journal of Engineering in Medicine, 2018**] Arash: A social robot buddy to support children with cancer in a hospital environment [paper](https://doi.org/10.1177/0954411918777520)
+* [244][**IJERPH, 2020**] Robotics utilization for healthcare digitization in global COVID-19 management [paper](https://doi.org/10.3390/ijerph17113819)
+* [245][**RO-MAN, 2012**] Technical improvements of the Giraff telepresence robot based on users' evaluation [paper](https://doi.org/10.1109/ROMAN.2012.6343854)
+* [246][**SIGGRAPH Emerging Technologies, 2011**] Telenoid: Tele-presence android for communication [paper](https://doi.org/10.1145/2048259.2048274)
 
 #### 3.4.3 Immersive Medical Education Platform
 
-* [247][**Handbook of Research on Educational Communications and Technology, 2008**] Cognitive task analysis [paper](XXX)
-* [248][**PhD Thesis/Report, 2020**] The first experience of using the Body Interact simulation interactive training platform as a part of interns' attestation [paper](XXX)
-* [249][**Surgical Technology International, 2019**] Validation of the hip arthroscopy module of the VirtaMed virtual reality arthroscopy trainer [paper](XXX)
-* [250][**Digital Diagnostics, 2024**] Possibilities for using the Vimedix 3.2 virtual simulator to train ultrasound specialists [paper](XXX)
-* [251][**CVPR, 2022**] OSSO: Obtaining skeletal shape from outside [paper](XXX)
-* [252][**JMLA, 2022**] 3D Organon VR Anatomy [paper](XXX)
+* [247][**Handbook of Research on Educational Communications and Technology, 2008**] Cognitive task analysis [paper](https://doi.org/10.4324/9780203880869-48)
+* [248][**PhD Thesis/Report, 2020**] The first experience of using the Body Interact simulation interactive training platform as a part of interns' attestation [paper](https://doi.org/10.11603/me.2414-5998.2020.2.11150)
+* [249][**Surgical Technology International, 2019**] Validation of the hip arthroscopy module of the VirtaMed virtual reality arthroscopy trainer [paper](https://pubmed.ncbi.nlm.nih.gov/30753742/)
+* [250][**Digital Diagnostics, 2024**] Possibilities for using the Vimedix 3.2 virtual simulator to train ultrasound specialists [paper](https://jdigitaldiagnostics.com/DD/article/view/586551)
+* [251][**CVPR, 2022**] OSSO: Obtaining skeletal shape from outside [paper](https://openaccess.thecvf.com/content/CVPR2022/html/Keller_OSSO_Obtaining_Skeletal_Shape_From_Outside_CVPR_2022_paper.html)
+* [252][**JMLA, 2022**] 3D Organon VR Anatomy [paper](https://doi.org/10.5195/jmla.2022.1341)
 
 #### 3.4.4 Telecollaborative Diagnostic and Treatment System
 
-* [253][**Web, 2025**] Teladoc Health [paper](XXX)
-* [254][**Nurse Leader, 2016**] Mercy virtual nursing: An innovative care delivery model [paper](XXX)
-* [255][**Molecular Nutrition & Food Research, 2019**] Duck egg white–derived peptide VSEE (Val-Ser-Glu-Glu) regulates bone and lipid metabolisms by Wnt/β-catenin signaling pathway and intestinal microbiota [paper](XXX)
-* [256][**Frontiers in Human Neuroscience, 2024**] A retrospective, observational study of real-world clinical data from the cognitive function development therapy program [paper](XXX)
+* [253][**Web, 2025**] Teladoc Health [paper](https://www.teladochealth.com/)
+* [254][**Nurse Leader, 2016**] Mercy virtual nursing: An innovative care delivery model [paper](https://doi.org/10.1016/j.mnl.2016.05.011)
+* [255][**Molecular Nutrition & Food Research, 2019**] Duck egg white–derived peptide VSEE (Val-Ser-Glu-Glu) regulates bone and lipid metabolisms by Wnt/β-catenin signaling pathway and intestinal microbiota [paper](https://doi.org/10.1002/mnfr.201900525)
+* [256][**Frontiers in Human Neuroscience, 2024**] A retrospective, observational study of real-world clinical data from the cognitive function development therapy program [paper](https://doi.org/10.3389/fnhum.2024.1508815)
 
 <div align="center">
 <a href="#top">⬆ Back to top</a>

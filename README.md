@@ -20,7 +20,7 @@
 
 ## 🏠 About
 
-Foundation models have demonstrated impressive performance in enhancing  healthcare efficiency. However, their limited ability to perceive and interact  with the physical world significantly constrains their utility in real-world clinical  workflows. Recently, embodied artificial intelligence (AI) provides a promising  physical-interactive paradigm for intelligent healthcare by integrating percep tion, decision-making, and action within a closed-loop system. Nevertheless, the  exploration of embodied AI for healthcare is still in its infancy. To support these  advances, this review systematically surveys the key components of embodied AI,  focusing on the integration of perception, decision-making, and action. Addition ally, we present a comprehensive overview of representative medical applications,  relevant datasets, major challenges in clinical practice, and further discuss the  key directions for future research in this emerging field. The associated project  can be found at XXXX.
+Foundation models have demonstrated impressive performance in enhancing  healthcare efficiency. However, their limited ability to perceive and interact  with the physical world significantly constrains their utility in real-world clinical  workflows. Recently, embodied artificial intelligence (AI) provides a promising  physical-interactive paradigm for intelligent healthcare by integrating percep tion, decision-making, and action within a closed-loop system. Nevertheless, the  exploration of embodied AI for healthcare is still in its infancy. To support these  advances, this review systematically surveys the key components of embodied AI,  focusing on the integration of perception, decision-making, and action. Addition ally, we present a comprehensive overview of representative medical applications,  relevant datasets, major challenges in clinical practice, and further discuss the  key directions for future research in this emerging field. 
 
 <div align="center">
 
@@ -31,6 +31,7 @@ Foundation models have demonstrated impressive performance in enhancing  healthc
 </div>
 
 <a id="1-introduction"></a>
+
 ## 📖 1. Introduction
 
 <div align=center>
@@ -44,6 +45,7 @@ Foundations of embodied AI. a, Publication volume, temporal trends over the past
 </div>
 
 <a id="2-embodied-ai"></a>
+
 ## 🤖 2. Embodied AI
 
 * [**arXiv, 2025**] Neural Brain: A Neuroscience-inspired Framework for Embodied Agents [paper](https://arxiv.org/abs/2505.07634)
@@ -201,6 +203,7 @@ Foundations of embodied AI. a, Publication volume, temporal trends over the past
 </div>
 
 <a id="3-embodied-ai-in-medicine"></a>
+
 ## 🏥 3. Embodied AI in Medicine
 
 <div align=center>
@@ -343,7 +346,6 @@ Embodied AI in medicine. Corresponding to the core components of embodied AI, me
 
 #### 3.4.2 Intelligent Caregiving and Companion Robot
 
-
 * [**Envisioning the Future of Health Informatics and Digital Health, 2025**] The Pepper robot in healthcare: A scoping review [paper](https://ebooks.iospress.nl/DOI/10.3233/SHTI250057)
 * [**Journal of Aging Research & Lifestyle, 2024**] ElliQ, an AI-driven social robot to alleviate loneliness: progress and lessons learned [paper](https://doi.org/10.14283/jarlife.2024.2)
 * [**European Journal of Pediatrics, 2022**] The pilot study of group robot intervention on pediatric inpatients and their caregivers, using 'new aibo' [paper](https://doi.org/10.1007/s00431-021-04285-8)
@@ -374,6 +376,7 @@ Embodied AI in medicine. Corresponding to the core components of embodied AI, me
 </div>
 
 <a id="4-datasets-and-benchmark"></a>
+
 ## 📊 4. Datasets and benchmark
 
 ### 4.1 Perception Datasets
@@ -485,7 +488,4 @@ Embodied AI in medicine. Corresponding to the core components of embodied AI, me
 <div align="center">
 <a href="#top">⬆ Back to top</a>
 </div>
-
-
-
 

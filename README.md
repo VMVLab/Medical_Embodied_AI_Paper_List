@@ -30,6 +30,7 @@ Foundation models have demonstrated impressive performance in enhancing  healthc
 
 </div>
 
+<a id="1-introduction"></a>
 ## 📖 1. Introduction
 
 <div align=center>
@@ -42,6 +43,7 @@ Foundations of embodied AI. a, Publication volume, temporal trends over the past
 <a href="#top">⬆ Back to top</a>
 </div>
 
+<a id="2-embodied-ai"></a>
 ## 🤖 2. Embodied AI
 
 <span style="color: red"><strong>2025</strong></span> <span style="margin-left:6px">📅</span>
@@ -278,6 +280,7 @@ Foundations of embodied AI. a, Publication volume, temporal trends over the past
 <a href="#top">⬆ Back to top</a>
 </div>
 
+<a id="3-embodied-ai-in-medicine"></a>
 ## 🏥 3. Embodied AI in Medicine
 
 <div align=center>
@@ -550,6 +553,7 @@ Embodied AI in medicine. Corresponding to the core components of embodied AI, me
 <a href="#top">⬆ Back to top</a>
 </div>
 
+<a id="4-datasets-and-benchmark"></a>
 ## 📊 4. Datasets and benchmark
 
 ### 4.1 Perception Datasets

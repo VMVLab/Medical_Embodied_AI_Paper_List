@@ -721,7 +721,6 @@ Embodied AI in medicine. Corresponding to the core components of embodied AI, me
 
 * [**Scientific Data, 2023**] A large-scale synthetic pathological dataset for deep learning-enabled segmentation of breast cancer [paper](https://doi.org/10.1038/s41597-023-02125-y)
 * [**arXiv, 2023**] SynFundus-1M: a high-quality million-scale synthetic fundus images dataset with fifteen types of annotation [paper](https://arxiv.org/abs/2312.00377)
-
 * [**Electronics, 2022**] The “coherent data set”: combining patient data and imaging in a comprehensive, synthetic health record [paper](https://doi.org/10.3390/electronics11081199)
 * [**Intelligence-Based Medicine, 2020**] Synthea™ novel coronavirus (COVID-19) model and synthetic data set [paper](https://doi.org/10.1016/j.ibmed.2020.100007)
 

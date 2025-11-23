@@ -376,112 +376,112 @@ Embodied AI in medicine. Corresponding to the core components of embodied AI, me
 
 #### 4.1.1 Organ–Instrument Recognition Datasets
 
-* [257][**Scientific Data, 2022**] ISLES 2022: A multi-center magnetic resonance imaging stroke lesion segmentation dataset [paper](XXX)
-* [258][**arXiv, 2023**] The state-of-the-art 3d anisotropic intracranial hemorrhage segmentation on non-contrast head ct: The instance challenge [paper](XXX)
-* [259][**arXiv, 2023**] FairSeg: A large-scale medical image segmentation dataset for fairness learning using segment anything model with fair error-bound scaling [paper](XXX)
-* [260][**Information Sciences, 2019**] Diagnostic assessment of deep learning algorithms for diabetic retinopathy screening [paper](XXX)
-* [261][**Medical Image Analysis, 2022**] AtrialJSQnet: a new framework for joint segmentation and quantification of left atrium and scars incorporating spatial and shape information [paper](XXX)
-* [262][**ATM'22 Challenge, 2023**] Multi-site, multi-domain airway tree modeling (ATM'22): A public benchmark for pulmonary airway segmentation [paper](XXX)
-* [263][**IPTA, 2020**] SegTHOR: Segmentation of thoracic organs at risk in CT images [paper](XXX)
-* [264][**arXiv, 2025**] Tumor detection, segmentation and classification challenge on automated 3d breast ultrasound: The TDSC-ABUS challenge [paper](XXX)
-* [265][**Web, 2010**] 3D image reconstruction for comparison of algorithm database (3D-IRCADb-01) [paper](XXX)
-* [266][**Medical Image Analysis, 2021**] VerSe: a vertebrae labelling and segmentation benchmark for multi-detector CT images [paper](XXX)
-* [267][**Scientific Data, 2024**] Lumbar spine segmentation in MR images: a dataset and a public benchmark [paper](XXX)
-* [268][**arXiv, 2021**] CTSpine1K: A large-scale dataset for spinal vertebrae segmentation in computed tomography [paper](XXX)
-* [269][**IJCARS, 2021**] Deep learning to segment pelvic bones: large-scale CT datasets and baseline models [paper](XXX)
-* [270][**arXiv, 2016**] Skin lesion analysis toward melanoma detection: A challenge at the international symposium on biomedical imaging (ISBI) 2016 [paper](XXX)
-* [271][**Expert Systems with Applications, 2015**] MED-NODE: A computer-assisted melanoma diagnosis system using non-dermoscopic images [paper](XXX)
-* [272][**Dermoscopy Image Analysis, 2015**] PH2: A public database for the analysis of dermoscopic images [paper](XXX)
-* [273][**Data in Brief, 2020**] PAD-UFES-20: A skin lesion dataset composed of patient data and clinical images collected from smartphones [paper](XXX)
-* [274][**bioRxiv, 2022**] A web-scraped skin image database of monkeypox, chickenpox, smallpox, cowpox, and measles [paper](XXX)
-* [275][**Radiology: Artificial Intelligence, 2023**] TotalSegmentator: robust segmentation of 104 anatomic structures in CT images [paper](XXX)
-* [276][**Medical Image Analysis, 2025**] The ULS23 challenge: A baseline model and benchmark dataset for 3D universal lesion segmentation in computed tomography [paper](XXX)
-* [277][**Scientific Data, 2022**] A whole-body FDG-PET/CT dataset with manually annotated tumor lesions [paper](XXX)
-* [278][**arXiv, 2019**] 2017 robotic instrument segmentation challenge [paper](XXX)
-* [279][**IROS, 2020**] LC-GAN: Image-to-image translation based on generative adversarial network for endoscopic images [paper](XXX)
-* [280][**arXiv, 2024**] SegStrong-C: Segmenting surgical tools robustly on non-adversarial generated corruptions–an Endovis' 24 challenge [paper](XXX)
-* [281][**IEEE Transactions on Medical Imaging, 2016**] EndoNet: a deep architecture for recognition tasks on laparoscopic videos [paper](XXX)
-* [282][**CVPR, 2025**] CholecTrack20: A multi-perspective tracking dataset for surgical tools [paper](XXX)
-* [283][**arXiv, 2023**] The EndoScapes dataset for surgical scene segmentation, object detection, and critical view of safety assessment [paper](XXX)
-* [284][**arXiv, 2020**] m2caiSeg: Semantic segmentation of laparoscopic images using convolutional neural networks [paper](XXX)
-* [285][**arXiv, 2021**] FetReg: Placental vessel segmentation and registration in fetoscopy challenge dataset [paper](XXX)
+* [257][**Scientific Data, 2022**] ISLES 2022: A multi-center magnetic resonance imaging stroke lesion segmentation dataset [paper](https://www.nature.com/articles/s41597-022-01875-5)
+* [258][**arXiv, 2023**] The state-of-the-art 3D anisotropic intracranial hemorrhage segmentation on non-contrast head CT: The INSTANCE challenge [paper](https://arxiv.org/abs/2301.03281)
+* [259][**arXiv, 2023**] FairSeg: A large-scale medical image segmentation dataset for fairness learning using segment anything model with fair error-bound scaling [paper](https://arxiv.org/abs/2311.02189)
+* [260][**Information Sciences, 2019**] Diagnostic assessment of deep learning algorithms for diabetic retinopathy screening [paper](https://doi.org/10.1016/j.ins.2019.06.011)
+* [261][**Medical Image Analysis, 2022**] AtrialJSQnet: a new framework for joint segmentation and quantification of left atrium and scars incorporating spatial and shape information [paper](https://doi.org/10.1016/j.media.2021.102303)
+* [262][**ATM'22 Challenge, 2023**] Multi-site, multi-domain airway tree modeling (ATM'22): A public benchmark for pulmonary airway segmentation [paper](https://arxiv.org/abs/2303.05745)
+* [263][**IPTA, 2020**] SegTHOR: Segmentation of thoracic organs at risk in CT images [paper](https://arxiv.org/abs/1912.05950)
+* [264][**arXiv, 2025**] Tumor detection, segmentation and classification challenge on automated 3D breast ultrasound: The TDSC-ABUS challenge [paper](https://arxiv.org/abs/2501.15588)
+* [265][**Web, 2010**] 3D image reconstruction for comparison of algorithm database (3D-IRCADb-01) [paper](https://www.ircad.fr/research/data-sets/liver-segmentation-3d-ircadb-01/)
+* [266][**Medical Image Analysis, 2021**] VerSe: a vertebrae labelling and segmentation benchmark for multi-detector CT images [paper](https://doi.org/10.1016/j.media.2021.102166)
+* [267][**Scientific Data, 2024**] Lumbar spine segmentation in MR images: a dataset and a public benchmark [paper](https://doi.org/10.1038/s41597-024-03090-w)
+* [268][**arXiv, 2021**] CTSpine1K: A large-scale dataset for spinal vertebrae segmentation in computed tomography [paper](https://arxiv.org/abs/2105.14711)
+* [269][**IJCARS, 2021**] Deep learning to segment pelvic bones: large-scale CT datasets and baseline models [paper](https://doi.org/10.1007/s11548-021-02363-8)
+* [270][**arXiv, 2016**] Skin lesion analysis toward melanoma detection: A challenge at the international symposium on biomedical imaging (ISBI) 2016 [paper](https://arxiv.org/abs/1605.01397)
+* [271][**Expert Systems with Applications, 2015**] MED-NODE: A computer-assisted melanoma diagnosis system using non-dermoscopic images [paper](https://doi.org/10.1016/j.eswa.2015.04.034)
+* [272][**Dermoscopy Image Analysis, 2015**] PH2: A public database for the analysis of dermoscopic images [paper](https://www.taylorfrancis.com/chapters/mono/10.1201/b19107-17/ph2-public-database-analysis-dermoscopic-images)
+* [273][**Data in Brief, 2020**] PAD-UFES-20: A skin lesion dataset composed of patient data and clinical images collected from smartphones [paper](https://doi.org/10.1016/j.dib.2020.106221)
+* [274][**bioRxiv, 2022**] A web-scraped skin image database of monkeypox, chickenpox, smallpox, cowpox, and measles [paper](https://doi.org/10.1101/2022.08.01.502199)
+* [275][**Radiology: Artificial Intelligence, 2023**] TotalSegmentator: robust segmentation of 104 anatomic structures in CT images [paper](https://doi.org/10.1148/ryai.230024)
+* [276][**Medical Image Analysis, 2025**] The ULS23 challenge: A baseline model and benchmark dataset for 3D universal lesion segmentation in computed tomography [paper](https://doi.org/10.1016/j.media.2025.103525)
+* [277][**Scientific Data, 2022**] A whole-body FDG-PET/CT dataset with manually annotated tumor lesions [paper](https://doi.org/10.1038/s41597-022-01718-3)
+* [278][**arXiv, 2019**] 2017 robotic instrument segmentation challenge [paper](https://arxiv.org/abs/1902.06426)
+* [279][**IROS, 2020**] LC-GAN: Image-to-image translation based on generative adversarial network for endoscopic images [paper](https://doi.org/10.1109/IROS45743.2020.9341556)
+* [280][**arXiv, 2024**] SegSTRONG-C: Segmenting surgical tools robustly on non-adversarial generated corruptions – an EndoVis'24 challenge [paper](https://arxiv.org/abs/2407.11906)
+* [281][**IEEE Transactions on Medical Imaging, 2016**] EndoNet: a deep architecture for recognition tasks on laparoscopic videos [paper](https://doi.org/10.1109/TMI.2016.2593957)
+* [282][**CVPR, 2025**] CholecTrack20: A multi-perspective tracking dataset for surgical tools [paper](https://openaccess.thecvf.com/content/CVPR2025/html/Nwoye_CholecTrack20_A_Multi-Perspective_Tracking_Dataset_for_Surgical_Tools_CVPR_2025_paper.html)
+* [283][**arXiv, 2023**] The EndoScapes dataset for surgical scene segmentation, object detection, and critical view of safety assessment [paper](https://arxiv.org/abs/2312.12429)
+* [284][**arXiv, 2020**] m2caiSeg: Semantic segmentation of laparoscopic images using convolutional neural networks [paper](https://arxiv.org/abs/2008.10134)
+* [285][**arXiv, 2021**] FetReg: Placental vessel segmentation and registration in fetoscopy challenge dataset [paper](https://arxiv.org/abs/2106.05923)
 
 #### 4.1.2 Medical Scene Modeling Datasets
 
-* [286][**CVPR, 2025**] MM-OR: A large multimodal operating room dataset for semantic understanding of high-intensity surgical environments [paper](XXX)
-* [287][**IEEE Transactions on Biomedical Engineering, 2016**] See it with your own eyes: Markerless mobile augmented reality for radiation awareness in the hybrid room [paper](XXX)
-* [288][**Engineering Applications of Artificial Intelligence, 2023**] Object detection in hospital facilities: A comprehensive dataset and performance evaluation [paper](XXX)
-* [289][**Data in Brief, 2018**] MCIndoor20000: A fully-labeled image dataset to advance indoor objects detection [paper](XXX)
-* [290][**Data in Brief, 2020**] MyNursingHome: A fully-labelled image dataset for indoor object classification [paper](XXX)
+* [286][**CVPR, 2025**] MM-OR: A large multimodal operating room dataset for semantic understanding of high-intensity surgical environments [paper](https://openaccess.thecvf.com/content/CVPR2025/html/Ozsoy_MM-OR_A_Large_Multimodal_Operating_Room_Dataset_for_Semantic_Understanding_CVPR_2025_paper.html)
+* [287][**IEEE Transactions on Biomedical Engineering, 2016**] See it with your own eyes: Markerless mobile augmented reality for radiation awareness in the hybrid room [paper](https://doi.org/10.1109/TBME.2016.2560761)
+* [288][**Engineering Applications of Artificial Intelligence, 2023**] Object detection in hospital facilities: A comprehensive dataset and performance evaluation [paper](https://doi.org/10.1016/j.engappai.2023.106223)
+* [289][**Data in Brief, 2018**] MCIndoor20000: A fully-labeled image dataset to advance indoor objects detection [paper](https://doi.org/10.1016/j.dib.2017.12.047)
+* [290][**Data in Brief, 2020**] MyNursingHome: A fully-labelled image dataset for indoor object classification [paper](https://doi.org/10.1016/j.dib.2020.106268)
 
 #### 4.1.3 Clinical Action and Pose Estimation Datasets
 
-* [291][**arXiv, 2018**] MVOR: A multi-view RGB-D operating room dataset for 2d and 3d human pose estimation [paper](XXX)
-* [292][**IEEE Journal of Translational Engineering in Health and Medicine, 2018**] Patient-specific pose estimation in clinical environments [paper](XXX)
-* [293][**Algorithms, 2024**] MMD-MSD: A multimodal multisensory dataset in support of research and technology development for musculoskeletal disorders [paper](XXX)
-* [294][**MICCAI Workshops, 2025**] SurgTrack: CAD-free 3D tracking of real-world surgical instruments [paper](XXX)
+* [291][**arXiv, 2018**] MVOR: A multi-view RGB-D operating room dataset for 2D and 3D human pose estimation [paper](https://arxiv.org/abs/1808.08180)
+* [292][**IEEE Journal of Translational Engineering in Health and Medicine, 2018**] Patient-specific pose estimation in clinical environments [paper](https://doi.org/10.1109/JTEHM.2018.2875464)
+* [293][**Algorithms, 2024**] MMD-MSD: A multimodal multisensory dataset in support of research and technology development for musculoskeletal disorders [paper](https://doi.org/10.3390/a17050187)
+* [294][**MICCAI Workshops, 2025**] SurgTrack: CAD-free 3D tracking of real-world surgical instruments [paper](https://doi.org/10.1007/978-3-031-77610-6_16)
 
 #### 4.1.4 Multimodal Affective Perception Datasets
 
-* [295][**arXiv, 2025**] Advancing face-to-face emotion communication: A multimodal dataset (AffEc) [paper](XXX)
-* [296][**NeurIPS, 2024**] Emotion-LLaMA: Multimodal emotion recognition and reasoning with instruction tuning [paper](XXX)
-* [297][**Scientific Data, 2024**] A multimodal dataset for mixed emotion recognition [paper](XXX)
-* [298][**IEEE Transactions on Affective Computing, 2024**] SEED-VII: A multimodal dataset of six basic emotions with continuous labels for emotion recognition [paper](XXX)
-* [299][**IEEE Transactions on Affective Computing, 2016**] ASCERTAIN: Emotion and personality recognition using commercial sensors [paper](XXX)
-* [300][**IEEE JBHI, 2017**] DREAMER: A database for emotion recognition through EEG and ECG signals from wireless low-cost off-the-shelf devices [paper](XXX)
+* [295][**arXiv, 2025**] Advancing face-to-face emotion communication: A multimodal dataset (AFFEC) [paper](https://arxiv.org/abs/2504.18969)
+* [296][**NeurIPS, 2024**] Emotion-LLaMA: Multimodal emotion recognition and reasoning with instruction tuning [paper](https://arxiv.org/abs/2406.11161)
+* [297][**Scientific Data, 2024**] A multimodal dataset for mixed emotion recognition [paper](https://doi.org/10.1038/s41597-024-03676-4)
+* [298][**IEEE Transactions on Affective Computing, 2024**] SEED-VII: A multimodal dataset of six basic emotions with continuous labels for emotion recognition [paper](https://doi.org/10.1109/TAFFC.2024.3485057)
+* [299][**IEEE Transactions on Affective Computing, 2016**] ASCERTAIN: Emotion and personality recognition using commercial sensors [paper](https://doi.org/10.1109/TAFFC.2016.2625250)
+* [300][**IEEE JBHI, 2017**] DREAMER: A database for emotion recognition through EEG and ECG signals from wireless low-cost off-the-shelf devices [paper](https://doi.org/10.1109/JBHI.2017.2688239)
 
 ### 4.2 Decision-Making Datasets
 
 #### 4.2.1 Surgical Workflow Annotation Datasets
 
-* [301][**ECCV, 2024**] OphNet: A large-scale video benchmark for ophthalmic surgical workflow understanding [paper](XXX)
-* [302][**MICCAI, 2022**] AutoLaparo: A new dataset of integrated multi-tasks for image-guided surgical automation in laparoscopic hysterectomy [paper](XXX)
-* [303][**Scientific Data, 2025**] LapEx: A new multimodal dataset for context recognition and practice assessment in laparoscopic surgery [paper](XXX)
-* [304][**Computer Methods and Programs in Biomedicine, 2021**] Micro-surgical anastomose workflow recognition challenge report [paper](XXX)
+* [301][**ECCV, 2024**] OphNet: A large-scale video benchmark for ophthalmic surgical workflow understanding [paper](https://doi.org/10.1007/978-3-031-73235-5_27)
+* [302][**MICCAI, 2022**] AutoLaparo: A new dataset of integrated multi-tasks for image-guided surgical automation in laparoscopic hysterectomy [paper](https://doi.org/10.1007/978-3-031-16449-1_46)
+* [303][**Scientific Data, 2025**] LapEx: A new multimodal dataset for context recognition and practice assessment in laparoscopic surgery [paper](https://doi.org/10.1038/s41597-025-04588-7)
+* [304][**Computer Methods and Programs in Biomedicine, 2021**] Micro-surgical anastomose workflow recognition challenge report [paper](https://doi.org/10.1016/j.cmpb.2021.106452)
 
 #### 4.2.2 Medical Navigation Datasets
 
 * [305][**IEEE Sensors Journal, 2025**] A portable 6D surgical instrument magnetic localization system with dynamic error correction [paper](XXX)
-* [306][**Scientific Data, 2024**] Head model dataset for mixed reality navigation in neurosurgical interventions for intracranial lesions [paper](XXX)
-* [307][**CVPR, 2018**] Gibson Env: Real-world perception for embodied agents [paper](XXX)
-* [308][**arXiv, 2021**] Habitat-Matterport 3D dataset (HM3D): 1000 large-scale 3d environments for embodied AI [paper](XXX)
+* [306][**Scientific Data, 2024**] Head model dataset for mixed reality navigation in neurosurgical interventions for intracranial lesions [paper](https://doi.org/10.1038/s41597-024-03385-y)
+* [307][**CVPR, 2018**] Gibson Env: Real-World Perception for Embodied Agents [paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Xia_Gibson_Env_Real-World_CVPR_2018_paper.html)
+* [308][**arXiv, 2021**] Habitat-Matterport 3D dataset (HM3D): 1000 large-scale 3D environments for embodied AI [paper](https://arxiv.org/abs/2109.08238)
 
 #### 4.2.3 Medical Question Answering Datasets
 
-* [309][**IJCARS, 2024**] Advancing surgical VQA with scene graph knowledge [paper](XXX)
-* [310][**arXiv, 2024**] ErVQA: A dataset to benchmark the readiness of large vision language models in hospital environments [paper](XXX)
-* [311][**arXiv, 2025**] MedReason: Eliciting factual medical reasoning steps in LLMs via knowledge graphs [paper](XXX)
-* [312][**EMNLP, 2025**] ReasonMed: A 370k multi-agent generated dataset for advancing medical reasoning [paper](XXX)
-* [313][**arXiv, 2025**] ORQA: A benchmark and foundation model for holistic operating room modeling [paper](XXX)
-* [314][**arXiv, 2024**] LLaVA-Surg: towards multimodal surgical assistant via structured surgical video learning [paper](XXX)
+* [309][**IJCARS, 2024**] Advancing surgical VQA with scene graph knowledge [paper](https://doi.org/10.1007/s11548-024-03141-y)
+* [310][**arXiv, 2024**] ERVQA: A dataset to benchmark the readiness of large vision language models in hospital environments [paper](https://arxiv.org/abs/2410.06420)
+* [311][**arXiv, 2025**] MedReason: Eliciting factual medical reasoning steps in LLMs via knowledge graphs [paper](https://arxiv.org/abs/2504.00993)
+* [312][**EMNLP, 2025**] ReasonMed: A 370k multi-agent generated dataset for advancing medical reasoning [paper](https://aclanthology.org/2025.emnlp-main.1344/)
+* [313][**arXiv, 2025**] ORQA: A benchmark and foundation model for holistic operating room modeling [paper](https://arxiv.org/abs/2505.12890)
+* [314][**arXiv, 2024**] LLaVA-Surg: towards multimodal surgical assistant via structured surgical video learning [paper](https://arxiv.org/abs/2408.07981)
 
 ### 4.3 Action Datasets
 
-* [315][**MICCAI Workshop, 2014**] JHU-ISI gesture and skill assessment working set (JIGSAWS): A surgical activity dataset for human motion modeling [paper](XXX)
-* [316][**arXiv, 2023**] The EndoScapes dataset for surgical scene segmentation, object detection, and critical view of safety assessment [paper](XXX)
-* [317][**IJCARS, 2024**] Challenges in multi-centric generalization: phase and step recognition in Roux-en-Y gastric bypass surgery [paper](XXX)
-* [318][**arXiv, 2025**] Surgical visual understanding (SurgVU) dataset [paper](XXX)
-* [319][**arXiv, 2016**] The TUM LapChole dataset for the M2CAI 2016 workflow challenge [paper](XXX)
-* [320][**arXiv, 2024**] General surgery vision transformer: A video pre-trained foundation model for general surgery [paper](XXX)
-* [321][**arXiv, 2022**] MITI: SLAM benchmark for laparoscopic surgery [paper](XXX)
-* [322][**ACM Multimedia, 2025**] COPESD: A multi-level surgical motion dataset for training large vision-language models to co-pilot endoscopic submucosal dissection [paper](XXX)
+* [315][**MICCAI Workshop, 2014**] JHU-ISI gesture and skill assessment working set (JIGSAWS): A surgical activity dataset for human motion modeling [paper](https://cirl.lcsr.jhu.edu/wp-content/uploads/2015/11/JIGSAWS.pdf)
+* [316][**arXiv, 2023**] The EndoScapes dataset for surgical scene segmentation, object detection, and critical view of safety assessment [paper](https://arxiv.org/abs/2312.12429)
+* [317][**IJCARS, 2024**] Challenges in multi-centric generalization: phase and step recognition in Roux-en-Y gastric bypass surgery [paper](https://doi.org/10.1007/s11548-024-03166-3)
+* [318][**arXiv, 2025**] Surgical visual understanding (SurgVU) dataset [paper](https://arxiv.org/abs/2501.09209)
+* [319][**arXiv, 2016**] The TUM LapChole dataset for the M2CAI 2016 workflow challenge [paper](https://arxiv.org/abs/1610.09278)
+* [320][**arXiv, 2024**] General surgery vision transformer: A video pre-trained foundation model for general surgery [paper](https://arxiv.org/abs/2403.05949)
+* [321][**arXiv, 2022**] MITI: SLAM benchmark for laparoscopic surgery [paper](https://arxiv.org/abs/2202.11496)
+* [322][**ACM Multimedia, 2025**] CoPESD: A multi-level surgical motion dataset for training large vision-language models to co-pilot endoscopic submucosal dissection [paper](https://dl.acm.org/doi/10.1145/3746027.3758200)
 
 ### 4.4 Simulation Platforms and Synthetic Datasets
 
 #### 4.4.1 Surgical Simulation Platforms
 
-* [323][**IROS, 2021**] SurRoL: An open-source reinforcement learning centered and dVRK compatible platform for surgical robot learning [paper](XXX)
-* [324][**ICRA, 2024**] Orbit-Surgical: An open-simulation framework for learning surgical augmented dexterity [paper](XXX)
-* [325][**ICRA, 2024**] Surgical Gym: A high-performance GPU-based platform for reinforcement learning with surgical robots [paper](XXX)
-* [326][**Journal of Machine Learning Research, 2023**] LapGym-an open source framework for reinforcement learning in robot-assisted laparoscopic surgery [paper](XXX)
-* [327][**arXiv, 2025**] SonoGym: High performance simulation for challenging surgical tasks with robotic ultrasound [paper](XXX)
+* [323][**IROS, 2021**] SurRoL: An open-source reinforcement learning centered and dVRK compatible platform for surgical robot learning [paper](https://arxiv.org/abs/2108.13035)
+* [324][**ICRA, 2024**] Orbit-Surgical: An open-simulation framework for learning surgical augmented dexterity [paper](https://arxiv.org/abs/2404.16027)
+* [325][**ICRA, 2024**] Surgical Gym: A high-performance GPU-based platform for reinforcement learning with surgical robots [paper](https://arxiv.org/abs/2310.04676)
+* [326][**Journal of Machine Learning Research, 2023**] LapGym - an open source framework for reinforcement learning in robot-assisted laparoscopic surgery [paper](https://jmlr.org/papers/v24/23-0207.html)
+* [327][**arXiv, 2025**] SonoGym: High performance simulation for challenging surgical tasks with robotic ultrasound [paper](https://arxiv.org/abs/2507.01152)
 
 #### 4.4.2 Synthetic Datasets
 
-* [328][**arXiv, 2023**] SynFundus-1M: a high-quality million-scale synthetic fundus images dataset with fifteen types of annotation [paper](XXX)
-* [329][**Scientific Data, 2023**] A large-scale synthetic pathological dataset for deep learning-enabled segmentation of breast cancer [paper](XXX)
-* [330][**Intelligence-Based Medicine, 2020**] Synthea™ novel coronavirus (COVID-19) model and synthetic data set [paper](XXX)
-* [331][**Electronics, 2022**] The “coherent data set”: combining patient data and imaging in a comprehensive, synthetic health record [paper](XXX)
+* [328][**arXiv, 2023**] SynFundus-1M: a high-quality million-scale synthetic fundus images dataset with fifteen types of annotation [paper](https://arxiv.org/abs/2312.00377)
+* [329][**Scientific Data, 2023**] A large-scale synthetic pathological dataset for deep learning-enabled segmentation of breast cancer [paper](https://doi.org/10.1038/s41597-023-02125-y)
+* [330][**Intelligence-Based Medicine, 2020**] Synthea™ novel coronavirus (COVID-19) model and synthetic data set [paper](https://doi.org/10.1016/j.ibmed.2020.100007)
+* [331][**Electronics, 2022**] The “coherent data set”: combining patient data and imaging in a comprehensive, synthetic health record [paper](https://doi.org/10.3390/electronics11081199)
 
 ---
 

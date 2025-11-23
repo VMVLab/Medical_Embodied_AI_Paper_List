@@ -245,7 +245,7 @@ Embodied AI in medicine. Corresponding to the core components of embodied AI, me
 * [172][**Information Fusion, 2025**] Towards facial micro-expression detection and classification using modified multimodal ensemble learning approach [paper](https://www.sciencedirect.com/science/article/abs/pii/S156625352400513X)
 * [173][**IEEE Transactions on Circuits and Systems for Video Technology, 2024**] Dep-former: Multimodal depression recognition based on facial expressions and audio features via emotional changes [paper](https://ieeexplore.ieee.org/document/10742391/)
 * [174][**Expert Systems with Applications, 2024**] MSER: Multimodal speech emotion recognition using cross-attention with deep fusion [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417423034486)
-* [175][**IEEE JBHI, 2025**] Multimodal fusion of behavioral and physiological signals for enhanced emotion recognition via feature decoupling and knowledge transfer [paper](XXX)
+* [175][**IEEE JBHI, 2025**] Multimodal fusion of behavioral and physiological signals for enhanced emotion recognition via feature decoupling and knowledge transfer [paper](https://ieeexplore.ieee.org/abstract/document/11122276)
 * [176][**IEEE Transactions on Instrumentation and Measurement, 2024**] Deep learning-based automated emotion recognition using multimodal physiological signals and time-frequency methods [paper](https://ieeexplore.ieee.org/document/10579770/)
 * [177][**MICCAI, 2025**] MedVLM-R1: Incentivizing medical reasoning capability of vision-language models (VLMs) via reinforcement learning [paper](https://doi.org/10.1007/978-3-032-04981-0_32)
 * [178][**arXiv, 2023**] DialogueLLM: Context and emotion knowledge-tuned large language models for emotion recognition in conversations [paper](https://arxiv.org/abs/2310.11374)
@@ -441,7 +441,7 @@ Embodied AI in medicine. Corresponding to the core components of embodied AI, me
 
 #### 4.2.2 Medical Navigation Datasets
 
-* [305][**IEEE Sensors Journal, 2025**] A portable 6D surgical instrument magnetic localization system with dynamic error correction [paper](XXX)
+* [305][**IEEE Sensors Journal, 2025**] A portable 6D surgical instrument magnetic localization system with dynamic error correction [paper](https://ieeexplore.ieee.org/abstract/document/11040120)
 * [306][**Scientific Data, 2024**] Head model dataset for mixed reality navigation in neurosurgical interventions for intracranial lesions [paper](https://doi.org/10.1038/s41597-024-03385-y)
 * [307][**CVPR, 2018**] Gibson Env: Real-World Perception for Embodied Agents [paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Xia_Gibson_Env_Real-World_CVPR_2018_paper.html)
 * [308][**arXiv, 2021**] Habitat-Matterport 3D dataset (HM3D): 1000 large-scale 3D environments for embodied AI [paper](https://arxiv.org/abs/2109.08238)

@@ -20,7 +20,7 @@
 
 ## 🏠 About
 
-Foundation models have demonstrated impressive performance in enhancing  healthcare efficiency. However, their limited ability to perceive and interact  with the physical world significantly constrains their utility in real-world clinical  workflows. Recently, embodied artificial intelligence (AI) provides a promising  physical-interactive paradigm for intelligent healthcare by integrating percep tion, decision-making, and action within a closed-loop system. Nevertheless, the  exploration of embodied AI for healthcare is still in its infancy. To support these  advances, this review systematically surveys the key components of embodied AI,  focusing on the integration of perception, decision-making, and action. Addition ally, we present a comprehensive overview of representative medical applications,  relevant datasets, major challenges in clinical practice, and further discuss the  key directions for future research in this emerging field. 
+Foundation models have demonstrated impressive performance in enhancing  healthcare efficiency. However, their limited ability to perceive and interact  with the physical world significantly constrains their utility in real-world clinical  workflows. Recently, embodied artificial intelligence (AI) provides a promising  physical-interactive paradigm for intelligent healthcare by integrating percep tion, decision-making, and action within a closed-loop system. Nevertheless, the  exploration of embodied AI for healthcare is still in its infancy. To support these  advances, this review systematically surveys the key components of embodied AI,  focusing on the integration of perception, decision-making, and action. Addition ally, we present a comprehensive overview of representative medical applications,  relevant datasets, major challenges in clinical practice, and further discuss the  key directions for future research in this emerging field.
 
 <div align="center">
 
@@ -346,12 +346,12 @@ Embodied AI in medicine. Corresponding to the core components of embodied AI, me
 
 #### 3.4.2 Intelligent Caregiving and Companion Robot
 
-* [**Envisioning the Future of Health Informatics and Digital Health, 2025**] The Pepper robot in healthcare: A scoping review [paper](https://ebooks.iospress.nl/DOI/10.3233/SHTI250057)
+* [**IEEE Robotics & Automation Magazine, 2018**] A Mass-Produced Sociable Humanoid Robot: Pepper: The First Machine of Its Kind [paper](https://ieeexplore.ieee.org/abstract/document/8409927)
 * [**Journal of Aging Research & Lifestyle, 2024**] ElliQ, an AI-driven social robot to alleviate loneliness: progress and lessons learned [paper](https://doi.org/10.14283/jarlife.2024.2)
 * [**European Journal of Pediatrics, 2022**] The pilot study of group robot intervention on pediatric inpatients and their caregivers, using 'new aibo' [paper](https://doi.org/10.1007/s00431-021-04285-8)
 * [**Journal of Engineering in Medicine, 2018**] Arash: A social robot buddy to support children with cancer in a hospital environment [paper](https://doi.org/10.1177/0954411918777520)
 * [**IJERPH, 2020**] Robotics utilization for healthcare digitization in global COVID-19 management [paper](https://doi.org/10.3390/ijerph17113819)
-* [**BMC Geriatrics, 2019**] The benefits of and barriers to using a social robot PARO in care settings: a scoping review [paper](https://doi.org/10.1186/s12877-019-1244-6)
+* [**Proceedings of the IEEE, 2012**] Therapeutic Seal Robot as Biofeedback Medical Device: Qualitative and Quantitative Evaluations of Robot Therapy in Dementia Care [paper](https://ieeexplore.ieee.org/document/6218158)
 * [**RO-MAN, 2012**] Technical improvements of the Giraff telepresence robot based on users' evaluation [paper](https://doi.org/10.1109/ROMAN.2012.6343854)
 * [**SIGGRAPH Emerging Technologies, 2011**] Telenoid: Tele-presence android for communication [paper](https://doi.org/10.1145/2048259.2048274)
 

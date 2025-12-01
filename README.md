@@ -346,9 +346,9 @@ Embodied AI in medicine. Corresponding to the core components of embodied AI, me
 
 #### 3.4.2 Intelligent Caregiving and Companion Robot
 
-* [**IEEE Robotics & Automation Magazine, 2018**] A Mass-Produced Sociable Humanoid Robot: Pepper: The First Machine of Its Kind [paper](https://ieeexplore.ieee.org/abstract/document/8409927)
 * [**Journal of Aging Research & Lifestyle, 2024**] ElliQ, an AI-driven social robot to alleviate loneliness: progress and lessons learned [paper](https://doi.org/10.14283/jarlife.2024.2)
 * [**European Journal of Pediatrics, 2022**] The pilot study of group robot intervention on pediatric inpatients and their caregivers, using 'new aibo' [paper](https://doi.org/10.1007/s00431-021-04285-8)
+* [**IEEE Robotics & Automation Magazine, 2018**] A Mass-Produced Sociable Humanoid Robot: Pepper: The First Machine of Its Kind [paper](https://ieeexplore.ieee.org/abstract/document/8409927)
 * [**Journal of Engineering in Medicine, 2018**] Arash: A social robot buddy to support children with cancer in a hospital environment [paper](https://doi.org/10.1177/0954411918777520)
 * [**IJERPH, 2020**] Robotics utilization for healthcare digitization in global COVID-19 management [paper](https://doi.org/10.3390/ijerph17113819)
 * [**Proceedings of the IEEE, 2012**] Therapeutic Seal Robot as Biofeedback Medical Device: Qualitative and Quantitative Evaluations of Robot Therapy in Dementia Care [paper](https://ieeexplore.ieee.org/document/6218158)

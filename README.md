@@ -35,7 +35,7 @@ Foundation models have demonstrated impressive performance in enhancing  healthc
 ## 📖 1. Introduction
 
 <div align=center>
-<img src="img\Fig1.jpg">
+<img src="img\frame.png">
 </div>
 
 Foundations of embodied AI. a, Publication volume, temporal trends over the past decade,  and representative keywords related to embodied intelligence. The statistics are obtained from Google  Scholar using “embodied AI” as the search query. b, The four developmental stages of embodied intel ligence, namely the Conceptual Germination Stage, Paradigm Shift Stage, Learning-Driven Stage,  and Large Model Empowered Stage. c, A comparison between disembodied intelligence and embodied  intelligence. Unlike its disembodied counterpart, embodied intelligence is distinguished by its inher ent ability to interact with the environment. d, Core components of embodied intelligence. At the  macroscopic level, it consists of agents and their environments; at the technical level, it encompasses  embodied perception, embodied decision-making, and embodied action.
@@ -207,12 +207,16 @@ Foundations of embodied AI. a, Publication volume, temporal trends over the past
 ## 🏥 3. Medical Embodied AI
 
 <div align=center>
-<img src="img\Fig2.png">
+<img src="img\tree.png">
 </div>
 
 Embodied AI in medicine. Corresponding to the core components of embodied AI, med ical embodied AI encompasses medical embodied perception, medical embodied decision-making,  and medical embodied action. a, Medical embodied perception includes medical instrument and  organ recognition, perception and modeling of surgical and clinical environments, detection of medi cal operational behaviors, and understanding of affective and interactive cues. b, Medical embodied  decision-making encompasses medical workflow modeling and task planning, medical navigation sys tems, and clinical question-answering and decision-support mechanisms. c, Medical embodied action  consists of imitation-based medical actions, reinforcement-based medical actions, and large-model driven medical actions.
 
 ### 3.1 Medical Embodied Perception
+
+<div align=center>
+<img src="img\perception.png">
+</div>
 
 #### 3.1.1 Medical Instrument and Organ Recognition
 
@@ -258,6 +262,10 @@ Embodied AI in medicine. Corresponding to the core components of embodied AI, me
 
 ### 3.2 Medical Embodied Decision-Making
 
+<div align=center>
+<img src="img\decision.png">
+</div>
+
 * [**JAMA Surgery, 2020**] Artificial intelligence and surgical decision-making [paper](https://doi.org/10.1001/jamasurg.2019.4917)
 * [**EBioMedicine, 2019**] Artificial intelligence to support clinical decision-making processes [paper](https://doi.org/10.1016/j.ebiom.2019.07.019)
 
@@ -295,6 +303,10 @@ Embodied AI in medicine. Corresponding to the core components of embodied AI, me
 * [**ACM Computing Surveys, 2022**] Biomedical question answering: a survey of approaches and challenges [paper](https://doi.org/10.1145/3490238)
 
 ### 3.3 Medical Embodied Action
+
+<div align=center>
+<img src="img\action.png">
+</div>
 
 * [**Science Robotics, 2025**] Will your next surgeon be a robot? Autonomy and AI in robotic surgery [paper](https://doi.org/10.1126/scirobotics.adt0187)
 * [**Annual Review of Control, Robotics, and Autonomous Systems, 2021**] Autonomy in surgical robotics [paper](https://doi.org/10.1146/annurev-control-062420-090543)

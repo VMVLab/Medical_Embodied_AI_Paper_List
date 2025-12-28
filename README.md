@@ -218,6 +218,8 @@ Embodied AI in medicine. Corresponding to the core components of embodied AI, me
 <img src="img\perception.png">
 </div>
 
+
+
 #### 3.1.1 Medical Instrument and Organ Recognition
 
 * [**arXiv, 2025**] SurgVLM: A large vision-language model and systematic evaluation benchmark for surgical intelligence [paper](https://arxiv.org/abs/2506.02555)
